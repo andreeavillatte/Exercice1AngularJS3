@@ -1,4 +1,4 @@
-var testApp = angular.module('app',[]);
+var testApp = angular.module('testApp',[]);
 
 testApp.controller('testCtrl', function($scope){
   $scope.firstSentence = 'L\'Axolotl, Ambystoma mexicanum, est une espèce d\'urodèles de la famille des Ambystomatidae.';
